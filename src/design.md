@@ -15,3 +15,5 @@ We offer a bespoke design service and you can choose the elements that suit your
 4. Detailed planting plan
 5. Groundwork
 6. Sourcing and planting
+
+Please email Jake [helo@forestgarden.wales](mailto:helo@forestgarden.wales) or phone on [07398 474 064](tel:+447398474064) to arrange an estimate.
