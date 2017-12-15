@@ -1,24 +1,26 @@
 ---
-title: About Groundwork
+title: About Forest Garden Wales
 slug: about
 collection: page
 layout: layout.hbs
 ---
 
-# About Groundwork
+# About us
 
-## Simple
+We are deeply committed to forest gardening as a way of improving our environment, food, health and well-being.
 
-Groundwork is **very simple**. A blog template for [Metalsmith](http://www.metalsmith.io/), a JavaScript [Static Site Generator](https://www.staticgen.com/), built to write modular CSS and JavaScript, designed for web designers that code.
+A forest garden is a low maintenance, low energy system of cultivation that mimics the layers of a natural forest. It is based on trees, shrubs and perennial plants.
 
-## Ambitious
+The benefits derived from a forest garden include:
 
-Groundwork is **ambitious**. It wants to be:
+* Food
+* Fire wood
+* Building materials
+* Pollinator friendly flowers
+* Soil fertility
 
-1. Simple static site for web designers, with the minimum of coding.
-2. A one-stop-shop for [**independent publishing**](https://indieweb.org/).
-3. Easy to create content with a graphical <acronym title="User Interface">UI</acronym> and mobile image posting.
+We started our own forest garden 3 years ago when we moved to West Wales and want to share our experience and passion.
 
-To help out with new features, contact Jake on <mailto:contact@groundwork.rocks>
+## Expertise
 
-Built with pride by [Jake Rayson](https://www.growdigital.org/) 🇪🇺 frontend developer and forest gardener.
+As relative newcomers to forest gardening, we are lucky to able to draw on the expertise of local arboculturist James Archer and garden designer Angela Siminson.

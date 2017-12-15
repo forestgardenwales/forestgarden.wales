@@ -18,9 +18,9 @@ Metalsmith(__dirname)
   .metadata({
     site: {
       lang: 'en-gb',
-      name: 'Blank Groundwork',
-      description: 'Blank Metalsmith blog template',
-      url: 'https://blank.groundwork.rocks/',
+      name: 'Forest Garden Wales',
+      description: 'Forest garden & design services in West Wales',
+      url: 'https://www.forestgarden.wales',
       author: 'Jake Rayson'
     }
   })
