@@ -6,4 +6,4 @@ The website for [forestgarden.wales](https://www.forestgarden.wales), forest gar
 
 A static site, based on [Groundwork](https://github.com/growdigital/groundwork), a [Metalsmith](http://www.metalsmith.io/) blog template.
 
-You probably don’t want to `npm install` this 😉
+You probably don’t want to `npm install` this 😉.
