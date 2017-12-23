@@ -10,7 +10,7 @@ collection: post
 
 <figure>
 
-![Bright yellow flower on evergreen plant](https://farm5.staticflickr.com/4686/38350635275_44463fbbfe_z_d.jpg)
+![Bright yellow flower on evergreen plant](https://farm5.staticflickr.com/4686/38350635275_7000be4a15_z_d.jpg)
 
 <figcaption>Brachyglottis 'Senecio' in flower</figcaption>
 </figure>
