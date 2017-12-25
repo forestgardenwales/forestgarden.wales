@@ -18,7 +18,7 @@ Metalsmith(__dirname)
   .metadata({
     site: {
       lang: 'en-gb',
-      name: 'Forest Garden Wales',
+      title: 'Forest Garden Wales',
       description: 'Forest garden & design services in West Wales',
       url: 'https://www.forestgarden.wales',
       author: 'Jake Rayson'
