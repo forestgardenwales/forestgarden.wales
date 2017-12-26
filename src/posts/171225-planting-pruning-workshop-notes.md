@@ -1,6 +1,6 @@
 ---
 title: Planting & Pruning workshop notes
-excerpt: Scant notes from the Planting & Pruning workshop held by The People’s Orchard is St Dogmaels on 7th December 2017
+excerpt: Scant notes from the Planting & Pruning workshop held by The People’s Orchard in St Dogmaels on 7th December 2017
 date: 2017-12-25
 update: 
 thumbnail: https://farm5.staticflickr.com/4736/39277857302_f2eb52f6f9_q_d.jpg
@@ -9,13 +9,19 @@ collection: post
 draft: true
 ---
 
-https://farm5.staticflickr.com/4736/39277857302_f2eb52f6f9_z_d.jpg caption: Martin Hayes, Consultant Orchardist, planting trees with The People’s Orchard, St Dogmaels
+<figure>
 
-* Martin , Orchardist
-* Does work for Glos Orchard Project
-* The People’s Orchard at St Dogmaels abbey
-* Planting & Pruning workshop
-* Nia & Sophie
+![Man with hat, walking away from newly planted tree next to brick wall](https://farm5.staticflickr.com/4736/39277857302_f2eb52f6f9_z_d.jpg)
+
+<figcaption>Martin Hayes, Consultant Orchardist, planting trees with The People’s Orchard project, St Dogmaels</figcaption>
+</figure>
+
+On 7th December, I had the good fortune to attend a free Planting & Pruning workshop, held by [The People’s Orchard](http://www.stdogmaelsabbey.org.uk/peoplesorchard) based [St Dogmaels Abbey](http://stdogmaelsabbey.org.uk/). It was run by Martin Hayes, an orchardist who works regularly for the [Gloucestershire Orchard Trust](https://glosorchards.org/home/), together with Nia and Sophie from The People’s Orchard. Martin was fantastic, as good with people as with trees, and I learnt a vast amount together with a dozen other volunteers.
+
+As a beginner in everything, I made scribbly notes between wielding secateurs and taking documentary photos. What follows really is aide de memoire tamis for my own benefit.
+
+I know a little about [rootstocks](), namely that different highly bred fruit (eg apples, pears, plums, cherries etc) are grafted on to different rootstock, which determines their vitality and height.
+
 * MM106 & M25 don’t need staking
 * rootstock reference
 * Staking with fine-ish electric cable
