@@ -36,7 +36,7 @@ For reference, here is a list of roostock sizes. I _think_ they’re from the [O
   * Pear: **Quince A**
   * Plum: **St Julien A**
   * Cherry: **Colt**
-* Vigorous _3.5m-4.5m>_
+* Vigorous _3.5m-4.5m_
   * Apple: **MM111**
   * Pear: **Pyrodwarf**
 * Very vigorous _4.5m+_
