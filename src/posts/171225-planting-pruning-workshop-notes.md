@@ -51,7 +51,7 @@ Other tips include:
 * Prune from the centre, not the edges
 * Water shoots are the new vertical shoots which grow in response to pruning
 * Bramley particularly vigorous, leave water shoots for upward growth
-* Time scale for pruning
+* Time scale for pruning:
   1. First year water shoots
   2. Second year bud
   3. Third year fruit
