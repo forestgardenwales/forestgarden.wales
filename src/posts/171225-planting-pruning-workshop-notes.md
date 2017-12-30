@@ -2,8 +2,8 @@
 title: Planting & Pruning workshop notes
 excerpt: Scant notes from the Planting & Pruning workshop held by The People’s Orchard in St Dogmaels on 7th December 2017
 date: 2017-12-25
-image: https://farm5.staticflickr.com/4736/39277857302_f2eb52f6f9_q_d.jpg
-imagealt: Man with hat, walking away from newly planted tree next to brick wall
+image: https://farm5.staticflickr.com/4587/38517307965_1f502a7949_z_d.jpg
+imagealt: Fruit and growth buds on apple tree
 layout: post.hbs
 collection: post
 ---
