@@ -20,8 +20,11 @@ Metalsmith(__dirname)
       lang: 'en-gb',
       title: 'Forest Garden Wales',
       description: 'Forest garden & design services in West Wales',
-      url: 'https://www.forestgarden.wales',
-      author: 'Jake Rayson'
+      url: 'https://www.forestgarden.wales/',
+      author: 'Jake Rayson',
+      publisher: 'Forest Garden Wales',
+      twitter: '@ForestGdnWales',
+      fbapp_id: '181804962563660'
     }
   })
   .source('./src')

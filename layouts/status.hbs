@@ -5,10 +5,10 @@
 <body class="no-js status">
   {{> header}}
   <div class="wrapper">
-    <div class="status">
-      {{{ contents }}}
-      <time>{{ date }}</time>
-    </div>
+    <article class="status" itemscope itemtype="https://schema.org/SocialMediaPosting">
+      {{> microformats-schema}} {{{ contents }}}
+      <time pubdate itemprop="datePublished">{{ date }}</time>
+    </article>
   </div>
   {{> footer}}
   <script src="/assets/scripts.js"></script>
