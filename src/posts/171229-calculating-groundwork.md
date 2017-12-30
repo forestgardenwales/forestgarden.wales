@@ -2,7 +2,6 @@
 title: Calculating groundwork
 excerpt: A quick summary of how I calculate an estimate for how long the groundwork will take
 date: 2017-12-29
-update: 
 image: 
 imagealt: 
 layout: post.hbs

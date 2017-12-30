@@ -2,8 +2,8 @@
 title: Rootstock reference
 excerpt: Quick reference for fruiting tree rootstocks
 date: 2017-12-26
-update: 
-thumbnail: https://farm5.staticflickr.com/4636/24453546047_966ab79f99_q_d.jpg
+image: https://farm5.staticflickr.com/4636/24453546047_966ab79f99_q_d.jpg
+imagealt: Illustration comparing different rootstock heights in relation to person
 layout: post.hbs
 collection: post
 ---

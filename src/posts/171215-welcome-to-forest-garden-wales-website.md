@@ -2,8 +2,8 @@
 title: Welcome to Forest Garden Wales website!
 excerpt: 
 date: 2017-12-15
-update: 
-thumbnail: 
+image: 
+imagealt: 
 layout: post.hbs
 collection: post
 ---
