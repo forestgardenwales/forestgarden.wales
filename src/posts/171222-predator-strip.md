@@ -2,8 +2,8 @@
 title: Predator strip!
 excerpt: Martin Crawford’s predator strip is a combination of perennial flowering plants to attract predatory and pollinating insects
 date: 2017-12-22
-image: 
-imagealt: 
+image: https://farm5.staticflickr.com/4686/38350635275_7000be4a15_z_d.jpg
+imagealt: Bright yellow flower on evergreen plant
 layout: post.hbs
 collection: post
 ---
