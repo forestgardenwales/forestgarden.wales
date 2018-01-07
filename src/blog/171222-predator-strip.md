@@ -1,19 +1,13 @@
 ---
 title: Predator strip!
 excerpt: Martin Crawford’s predator strip is a combination of perennial flowering plants to attract predatory and pollinating insects
-date: 2017-12-22
+datePublished: 2017-12-22
 image: https://farm5.staticflickr.com/4686/38350635275_7000be4a15_z_d.jpg
-imagealt: Bright yellow flower on evergreen plant
+imageAlt: Bright yellow flower on evergreen plant
+imageCap: Brachyglottis 'Senecio' in flower
 layout: post.hbs
 collection: post
 ---
-
-<figure>
-
-![Bright yellow flower on evergreen plant](https://farm5.staticflickr.com/4686/38350635275_7000be4a15_z_d.jpg)
-
-<figcaption>Brachyglottis 'Senecio' in flower</figcaption>
-</figure>
 
 On the longest night in the depths of winter, with temperatures plummeting to 10°C, the [Brachyglottis (Dunedin Group) 'Sunshine'](http://ow.ly/u9rm30hrbpU) is flowering! Along with the [Myrrhis odorata (Sweet Cicely)](http://www.pfaf.org/user/plant.aspx?LatinName=Myrrhis+odorata) and [Filipendula ulmaria (Meadowsweet)](http://www.pfaf.org/user/Plant.aspx?LatinName=Filipendula+ulmaria), it forms part of a “predator strip” by the raised beds, to encourage predatory and pollinating insects, like [hoverflies](https://en.wikipedia.org/wiki/Hoverfly). I heard about them on Martin Crawford’s [Forest Gardening Design Course](https://www.agroforestry.co.uk/product/forest-gardening-food-forests-design-course/) in 2016 and I’m really pleased to have finally planted my own.
 

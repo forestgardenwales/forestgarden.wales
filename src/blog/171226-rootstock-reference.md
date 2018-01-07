@@ -1,19 +1,13 @@
 ---
 title: Rootstock reference
 excerpt: Quick reference for fruiting tree rootstocks
-date: 2017-12-26
+datePublished: 2017-12-26
 image: https://farm5.staticflickr.com/4636/24453546047_966ab79f99_q_d.jpg
-imagealt: Illustration comparing different rootstock heights in relation to person
+imageAlt: Illustration comparing different rootstock heights in relation to person
+imageCap: <a href="https://farm5.staticflickr.com/4636/24453546047_3e5fb2dfec_o_d.png">Rootstocks explained illustration</a>, I think from <a href="https://www.johnstowngardencentre.ie/blog/johnstowngardencentre.ie/2016/03/08/rootstocks-explained/">Johnstown Garden Centre</a>
 layout: post.hbs
 collection: post
 ---
-
-<figure>
-
-![Illustration comparing different rootstock heights in relation to person](https://farm5.staticflickr.com/4636/24453546047_966ab79f99_z_d.jpg)
-
-<figcaption>[Rootstocks explained illustration](https://farm5.staticflickr.com/4636/24453546047_3e5fb2dfec_o_d.png), I think from [Johnstown Garden Centre](https://www.johnstowngardencentre.ie/blog/johnstowngardencentre.ie/2016/03/08/rootstocks-explained/)</figcaption>
-</figure>
 
 This is the best rootstock diagram that I’ve found.
 

@@ -6,7 +6,8 @@
   {{> header}}
   <div class="wrapper">
     <main role="main">
-      {{{ contents }}} {{#if blog}} {{> blog}} {{/if}}
+      {{{ contents }}} {{#if blogIndex}} {{> list-blog}} {{/if}} {{#if statusIndex}} {{> list-status}} {{/if}}
+      <hr>
     </main>
     {{> aside}}
   </div>

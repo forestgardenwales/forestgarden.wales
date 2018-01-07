@@ -1,5 +1,6 @@
 ---
 title: Forest garden courses
+excerpt: Online forest gardening courses are on offer
 slug: courses
 collection: page
 layout: layout.hbs

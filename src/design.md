@@ -1,5 +1,6 @@
 ---
 title: Forest garden design
+excerpt: Forest garden design service in West Wales
 slug: design
 collection: page
 layout: layout.hbs

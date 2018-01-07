@@ -1,5 +1,6 @@
 ---
 title: Forest Garden Wales
+excerpt: Forest Garden Wales is a forest garden and design service in West Wales
 collection: page
 layout: layout.hbs
 permalink: false

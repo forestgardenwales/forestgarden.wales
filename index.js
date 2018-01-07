@@ -22,8 +22,15 @@ Metalsmith(__dirname)
       description: 'Forest garden & design services in West Wales',
       url: 'https://www.forestgarden.wales/',
       author: 'Jake Rayson',
-      publisher: 'Forest Garden Wales',
-      twitter: '@ForestGdnWales',
+      publisher: 'Grow Digital Ltd',
+      publisherLogo: 'assets/images/logo.png',
+      publisherLogoWidth: 220,
+      publisherLogoHeight: 220,
+      email: 'helo@forestgarden.wales',
+      twitter: 'ForestGdnWales',
+      github: 'forestgardenwales',
+      googleplus: '111290684473488016210',
+      facebook: 'forestgardenwales',
       fbapp_id: '181804962563660'
     }
   })
@@ -90,18 +97,30 @@ Metalsmith(__dirname)
       }
     })
   )
+  // Add value draft: true to front matter
   .use(drafts())
   .use(
     collection({
-      // Post collection: just posts
-      post: {
-        pattern: 'posts/**/*.md',
-        sortBy: 'date',
+      // Blog collection: just blog posts
+      blog: {
+        pattern: ['blog/*.md', '!blog/index.md'],
+        sortBy: 'datePublished',
         reverse: true
       },
-      // Status collection: status & posts
+      // Status collection, just statuses
       status: {
-        pattern: ['status/**/*.md', 'posts/**/*.md'],
+        pattern: ['status/*.md', '!status/index.md'],
+        sortBy: 'statusDate',
+        reverse: true
+      },
+      // Syndicate collection: status & blog posts
+      syndicate: {
+        pattern: [
+          'blog/*.md',
+          '!blog/index.md',
+          'status/*.md',
+          '!status/index.md'
+        ],
         sortBy: 'date',
         reverse: true
       }
@@ -123,21 +142,34 @@ Metalsmith(__dirname)
   // Uses Moment.js http://momentjs.com/docs/#/displaying/
   .use(
     dateFormat({
-      key: 'date',
-      format: 'ddd D MMM YYYY'
+      dates: [
+        {
+          key: 'datePublished',
+          format: 'ddd D MMM YYYY'
+        },
+        {
+          key: 'statusDate',
+          format: 'ddd D MMM YYYY, hh:mm:ss'
+        }
+      ]
     })
   )
   // Set permalinks
   .use(
     permalinks({
       // By default, create permalink from title field
-      pattern: ':title',
+      pattern: 'blog/:title',
       // Match pages, create permalink with slug field
       // Set permalnk: false on index.md
       linksets: [
         {
           match: { collection: 'page' },
           pattern: ':slug'
+        },
+        {
+          match: { collection: 'status' },
+          pattern: 'status/:filename',
+          date: 'mmddyy'
         }
       ]
     })
@@ -145,7 +177,7 @@ Metalsmith(__dirname)
   // RSS feed for newsreaders
   .use(
     feed({
-      collection: 'post',
+      collection: 'blog',
       postDescription(file) {
         return file.contents;
       }
@@ -154,8 +186,8 @@ Metalsmith(__dirname)
   // RSS feed for social feed
   .use(
     feed({
-      collection: 'status',
-      destination: 'status.xml'
+      collection: 'syndicate',
+      destination: 'syndicate.xml'
     })
   )
   // I like Handlebars templating. You can use what you like.

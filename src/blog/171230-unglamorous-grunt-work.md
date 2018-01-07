@@ -1,19 +1,13 @@
 ---
 title: Unglamorous grunt work
 excerpt: In a garden, it’s 95% perspiration and 5% inspiration
-date: 2017-12-30
+datePublished: 2017-12-30
 image: https://farm5.staticflickr.com/4725/38665529034_dd03ba2fba_z_d.jpg
-imagealt: A mound of bark
+imageAlt: A mound of bark
+imageCap: It’s not the most glamorous of photographs but then a lot of gardening is about the grunt work
 layout: post.hbs
 collection: post
 ---
-
-<figure>
-
-![A mound of bark](https://farm5.staticflickr.com/4725/38665529034_dd03ba2fba_z_d.jpg)
-
-<figcaption>It’s not the most glamorous of photographs but then a lot of gardening is about the grunt work</figcaption>
-</figure>
 
 I’ve just done some calculations for our one acre forest garden. We’ve planted the canopy layer and windbreaks, sheet mulched large swathes and are now planting the shrub and ground cover layers. There’s stil 950m² to go, and I’ve worked out that‘s about **170 hours** of hard graft. Most of it is hard, repetitive work – wheeling barrow after barrow of bark to mulch the newly revealed brown spongey soil; desnagging recalcitrant ground pegs from the woven plastic sheet mulch; planting dozens of [Vinca minor](http://www.pfaf.org/user/plant.aspx?latinname=Vinca+minor) and [Symphytum ibericum](https://www.rhs.org.uk/plants/details?plantid=1894).
 

@@ -1,19 +1,13 @@
 ---
 title: Planting & Pruning workshop notes
 excerpt: Scant notes from the Planting & Pruning workshop held by The People’s Orchard in St Dogmaels on 7th December 2017
-date: 2017-12-25
+datePublished: 2017-12-25
 image: https://farm5.staticflickr.com/4587/38517307965_1f502a7949_z_d.jpg
-imagealt: Fruit and growth buds on apple tree
+imageAlt: Fruit and growth buds on apple tree
+imageCap: Martin Hayes, Consultant Orchardist, planting trees with The People’s Orchard project, St Dogmaels
 layout: post.hbs
 collection: post
 ---
-
-<figure>
-
-![Man with hat, walking away from newly planted tree next to brick wall](https://farm5.staticflickr.com/4736/39277857302_f2eb52f6f9_z_d.jpg)
-
-<figcaption>Martin Hayes, Consultant Orchardist, planting trees with The People’s Orchard project, St Dogmaels</figcaption>
-</figure>
 
 On 7th December, I had the good fortune to attend a free Planting & Pruning workshop, held by [The People’s Orchard](http://www.stdogmaelsabbey.org.uk/peoplesorchard) based [St Dogmaels Abbey](http://stdogmaelsabbey.org.uk/). It was run by Martin Hayes, an orchardist who works regularly for the [Gloucestershire Orchard Trust](https://glosorchards.org/home/), together with Nia and Sophie from The People’s Orchard. Martin was fantastic, as good with people as with trees, and I learnt a vast amount together with a dozen other volunteers.
 

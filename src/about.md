@@ -1,5 +1,6 @@
 ---
 title: About Forest Garden Wales
+excerpt: A forest garden and design service in West Wales
 slug: about
 collection: page
 layout: layout.hbs
