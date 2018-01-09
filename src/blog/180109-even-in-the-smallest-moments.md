@@ -4,7 +4,7 @@ excerpt: No matter how much administration there is in the world, I try to find 
 datePublished: 2018-01-09
 image: https://farm5.staticflickr.com/4628/39572886252_e80df217e9_z_d.jpg
 imageAlt: Bark mulch covered area, bamboo markers, faint line of ground lime
-imageCap: Marking out an Aronia hedge boundary with some ground lime
+imageCap: Using ground lime to mark the edge of an Aronia hedge
 layout: post.hbs
 collection: post
 ---
