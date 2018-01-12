@@ -4,7 +4,7 @@ excerpt: A mixed species north boundary windbreak hedge has grown on leaps and b
 datePublished: 2018-01-12
 image: https://farm5.staticflickr.com/4712/39615815062_b6aa7e383b_z_d.jpg
 imageAlt: Wheelbarrow in foreground by long hedge receding to oak tree
-imageCap: Removed tree guards from the North Face windbreak hedge
+imageCap: Replaced casualties in the North Face windbreak hedge
 layout: post.hbs
 collection: post
 ---
@@ -22,4 +22,6 @@ I thought that it would be the Hippophae that would struggle the most with the w
 
 What is strange is that a named variety of Elaegnus umbellata, 'Newgate' from [Agroforestry Trust](https://www.agroforestry.co.uk/product/elaeagnus-umbellata-newgate/) which is just a bit further down the field has done really well – vibrant green shiny foliage and plenty of growth. Indeed, I’ve taken quite a few cuttings from it last autumn.
 
-Over the next year, I really need to put a sheet mulch down between the hedge and the fence, as it’s starting to fill up with nettles, brambles and grass. Indeed, I now believe that most things in life benefit from a bit of mulching.
+Whilst removing tree protectors and replanting the gaps with Hippophae rhamnoides, this idea of diversity is the one that really struck home. I had considered planting all Elaegnus umbellata, and I’m very glad I didn’t. The other idea is that Amelanchier seem do well, so I’ve planted an [Amelanchier alnifolia 'Obelisk'](https://www.ashwoodnurseries.com/shop/amelanchier-alnifolia-obelisk.html) as well.
+
+The other thing about maintenance work is that you notice yet more maintenance work: the gap between the hedge and the fence needs mulching, and some fence posts need replacing!
