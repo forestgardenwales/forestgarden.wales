@@ -13,7 +13,7 @@ Last weekend we paid a visit to [Colby Woodland Garden](https://www.nationaltrus
 
 <figure>
 
-![https://farm5.staticflickr.com/4626/39646072541_6dd317316f_z_d.jpg](Cornus kousa seeds and fruit on a piece of kitchen paper)
+![Cornus kousa seeds and fruit on a piece of kitchen paper](https://farm5.staticflickr.com/4626/39646072541_6dd317316f_z_d.jpg)
 
 <figcaption>Cornus kousa seeds and fruit</figcaption>
 </figure>
@@ -24,7 +24,7 @@ The tree/shrub itself is very elegant, we saw a fantastic specimen with beautifu
 
 <figure>
 
-![https://farm5.staticflickr.com/4642/39541113121_396afc3c3d_z_d.jpg](Cornus kousa tree/shrub)
+![Cornus kousa tree/shrub](https://farm5.staticflickr.com/4642/39541113121_396afc3c3d_z_d.jpg)
 
 <figcaption>Cornus kousa tree/shrub at Colby Woodland Garden</figcaption>
 </figure>
@@ -33,7 +33,7 @@ Near the entrance to Colby is a wall and water feature, crowned beautifully with
 
 <figure>
 
-![https://farm5.staticflickr.com/4680/24673075167_9a437c2bbf_z_d.jpg](Evergreen vegetation spilling over wall next to steps)
+![Evergreen vegetation spilling over wall next to steps](https://farm5.staticflickr.com/4680/24673075167_9a437c2bbf_z_d.jpg)
 
 <figcaption>Rubus tricolor in luxuriant abundance, spilling over the wall and rill at Colby</figcaption>
 </figure>
@@ -42,7 +42,7 @@ And finally, one of my favourite ground cover plants, [Vinca minor](http://www.p
 
 <figure>
 
-![https://farm5.staticflickr.com/4726/39541107361_5c79571b74_z_d.jpg](Vinca minor (Lesser Periwinkle) glossy evergreen ground cover)
+![Vinca minor (Lesser Periwinkle) glossy evergreen ground cover](https://farm5.staticflickr.com/4726/39541107361_5c79571b74_z_d.jpg)
 
 <figcaption>Magnificent Vinca minor (Lesser Periwinkle) ground cover. Watch out weeds.</figcaption>
 </figure>
