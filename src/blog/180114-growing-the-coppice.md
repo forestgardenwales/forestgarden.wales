@@ -13,7 +13,7 @@ We’re very lucky to have the space to plant a coppice for our woodburners. Tod
 
 <figure>
 
-![Sketch of coppice layout](https://www.flickr.com/photos/forestgardenwales/25820536998/sizes/l/)
+![Sketch of coppice layout](https://farm5.staticflickr.com/4764/25820536998_dbc30dc563_z_d.jpg)
 
 <figcaption>Sketch of Coppice layout, showing just two sections</figcaption>
 </figure>
