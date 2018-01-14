@@ -1,6 +1,6 @@
 ---
 title: Growing the Coppice
-excerpt: The final instalment of the Coppice is in place
+excerpt: Starting the final section of the Coppice, with sweet chestnut to be planted soon
 datePublished: 2018-01-14
 image: https://farm5.staticflickr.com/4722/39653194582_5fda56d929_z_d.jpg
 imageAlt: New rows of coppice trees with two rows of sheet mulch in the foreground
