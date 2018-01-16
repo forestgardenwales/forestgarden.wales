@@ -2,7 +2,7 @@
 title: Dwarf comfrey ground cover planted in Shrubbery
 excerpt: Symphytum ibericum (dwarf or iberian comfrey) is a good mineral accumulator ground cover for shady areas, planted buckets of the stuff today
 datePublished: 2018-01-16
-image: https://www.flickr.com/photos/forestgardenwales/38830083715/sizes/l/
+image: https://farm5.staticflickr.com/4700/38830083715_dacf103fc9_z_d.jpg
 imageAlt: Dwarf comfrey in raised bed
 imageCap: Symphytum ibericum in a rustic propagation bed, before being lifted, divided and planted out
 layout: post.hbs
