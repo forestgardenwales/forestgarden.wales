@@ -4,12 +4,12 @@ excerpt: Quick reference for fruiting tree rootstocks
 datePublished: 2017-12-26
 image: https://farm5.staticflickr.com/4636/24453546047_966ab79f99_q_d.jpg
 imageAlt: Illustration comparing different rootstock heights in relation to person
-imageCap: <a href="https://farm5.staticflickr.com/4636/24453546047_3e5fb2dfec_o_d.png">Rootstocks explained illustration</a>, I think from <a href="https://www.johnstowngardencentre.ie/blog/johnstowngardencentre.ie/2016/03/08/rootstocks-explained/">Johnstown Garden Centre</a>
+imageCap: Rootstocks explained illustration, I think from Johnstown Garden Centre
 layout: post.hbs
 collection: post
 ---
 
-This is the best rootstock diagram that I’ve found.
+This is the best [rootstock diagram](https://farm5.staticflickr.com/4636/24453546047_3e5fb2dfec_o_d.png) that I’ve found. I think it’s from [Johnstown Garden Centre](https://www.johnstowngardencentre.ie/blog/johnstowngardencentre.ie/2016/03/08/rootstocks-explained/)
 
 For reference, here is a list of roostock sizes. I _think_ they’re from the [Orange Pippin website](https://www.orangepippin.com/apples), a fantastic resource for choosing apple, pear and cherry varieties. They also have an online nursery called [Orange Pippin Fruit Trees](https://www.orangepippintrees.co.uk/):
 
