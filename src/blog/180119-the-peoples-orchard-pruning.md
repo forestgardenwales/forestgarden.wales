@@ -1,6 +1,6 @@
 ---
-title: The People’s Orchard pruning and planting workshop at Waun Segur, Llandudoch
-excerpt: Notes from another excellent pruning and planting workshop with Martin Hayes, Orchardist
+title: The People’s Orchard pruning and planting workshop
+excerpt: Notes from another excellent pruning and planting workshop with Martin Hayes, Orchardist, near Llandudoch in Pembrokeshire
 datePublished: 2018-01-19
 image: https://farm5.staticflickr.com/4770/39784408711_e356f0e0fb_z_d.jpg
 imageAlt: Man pruning goblet shape fruit tree with onlooker
