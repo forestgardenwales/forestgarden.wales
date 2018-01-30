@@ -7,7 +7,7 @@ imageAlt:
 imageCap:
 layout: post.hbs
 collection: post
-status: draft
+draft: true
 ---
 
 ## Per 200m²
