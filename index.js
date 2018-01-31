@@ -27,6 +27,7 @@ Metalsmith(__dirname)
       publisherLogoWidth: 220,
       publisherLogoHeight: 220,
       email: 'helo@forestgarden.wales',
+      tel: '+447398474064',
       twitter: 'ForestGdnWales',
       github: 'forestgardenwales',
       googleplus: '111290684473488016210',
