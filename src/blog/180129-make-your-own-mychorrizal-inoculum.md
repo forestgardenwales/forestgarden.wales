@@ -1,6 +1,6 @@
 ---
-title: How to make your own arbuscular mycorrhizal fungi inoculant 
-excerpt: You can make your own mycorrhizal fungi, like rootgrow™, for adding to roots for healthier plants
+title: How to make your own mycorrhizal fungi 
+excerpt: You can make your own arbuscular mycorrhizal fungi inoculant, like rootgrow™, for adding to roots for healthier plants
 datePublished: 2018-01-29
 image: 
 imageAlt: 
