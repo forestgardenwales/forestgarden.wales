@@ -36,7 +36,7 @@ The majority of wild plants, including shrubs, wildflowers and broad leaf trees 
 * Fruit trees including tropical fruits
 * Many wetland/aquatic species except rushes and horsetails
 
-## Non-mycorrhizal plants (5%)
+## 2. Non-mycorrhizal plants (5%)
 
 ### Brassicaceae
 
@@ -59,7 +59,7 @@ The majority of wild plants, including shrubs, wildflowers and broad leaf trees 
 * Sedge
 * Spinach
 
-## Ectomycorrhizal (ECM) plants (5%)
+## 3. Ectomycorrhizal (ECM) plants (5%)
 
 Primary plant families:
 
