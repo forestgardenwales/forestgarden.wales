@@ -11,7 +11,11 @@ collection: post
 
 Edited notes from the [Radical Mycology](https://radicalmycology.com/) [book](http://www.chthaeus.com/Radical-Mycology-by-Peter-McCoy-p/b-rmp.htm) by [Peter McCoy](https://radicalmycology.com/peters-bio/). Handy knowledge when [making your own mycorrhizal inoculant](https://www.forestgarden.wales/blog/how-to-make-your-own-mycorrhizal-fungi/).
 
-## Arbuscular (Endo)mycorrhizal plants (80-90%)
+1. [Arbuscular (endo)mycorrhizal](#arbuscular-endo-mycorrhizal-plants-80-90-)
+2. [Non-mycorrhizal](non-mycorrhizal-plants-5-)
+3. [Ectomycorrhizal](ectomycorrhizal-ecm-plants-5-)
+
+## 1. Arbuscular (Endo)mycorrhizal plants (80-90%)
 
 The majority of wild plants, including shrubs, wildflowers and broad leaf trees associate with AM, as do redwood, cedar and juniper trees. These include:
 
