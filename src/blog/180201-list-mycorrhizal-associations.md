@@ -1,6 +1,6 @@
 ---
-title: List of mycorrhizal associations
-excerpt: Excerpt from Radical Mycology listing which plants have which mychorrizal associations
+title: Plants that make mycorrhizal associations
+excerpt: Excerpt from Radical Mycology listing which plants have which mycorrhizal associations
 datePublished: 2018-02-01
 image: https://farm5.staticflickr.com/4705/28246251219_26717dcbbf_z_d.jpg
 imageAlt: Radical Mycology - decompose toxins to cultivate life
