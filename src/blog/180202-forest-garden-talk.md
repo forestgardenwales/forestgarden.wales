@@ -7,7 +7,6 @@ imageAlt: Grass path leading to mature trees, young hedge on the right, sheet mu
 imageCap: Our young forest garden in the making
 layout: post.hbs
 collection: post
-draft: true
 ---
 
 The good people at [The People’s Orchard](https://www.facebook.com/peoplesorchardstdogs/) are very kindly hosting my very first public talk about forest gardening. It’ll be held at [St Dogmaels Abbey](http://www.stdogmaelsabbey.org.uk/contact.php) [SA43 3DX](https://binged.it/2DW5Hb0) in Pembrokeshire, near Cardigan, West Wales.
