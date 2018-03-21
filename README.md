@@ -1,8 +1,3 @@
-# indiego.org.uk
+# Forest Garden Wales
 
-Website for Indiego Hugo socially-aware theme
-
-Getting there, patience please…
-
-Right, most of microformats done. Not 100% sure about `e-content`. Time to test the RSS…
-
+Website for Forest Garden Wales, made with [Hugo](https://gohugo.io/) and [Indiego](https://www.indiego.org.uk/), the socially-aware theme
