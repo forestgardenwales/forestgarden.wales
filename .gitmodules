@@ -1,0 +1,3 @@
+[submodule "themes/go-fgw"]
+	path = themes/go-fgw
+	url = git@github.com:growdigital/go-fgw.git

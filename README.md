@@ -1,9 +1,8 @@
-# Forest Garden Wales website
+# indiego.org.uk
 
-![Forest Garden Wales logo](src/modules/components/graphics/logo/logo.png)
+Website for Indiego Hugo socially-aware theme
 
-The website for [forestgarden.wales](https://www.forestgarden.wales), forest garden design services and courses from West Wales, UK.
+Getting there, patience please…
 
-A static site, based on [Groundwork](https://github.com/growdigital/groundwork), a [Metalsmith](http://www.metalsmith.io/) blog template.
+Right, most of microformats done. Not 100% sure about `e-content`. Time to test the RSS…
 
-You probably don’t want to `npm install` this 😉 !

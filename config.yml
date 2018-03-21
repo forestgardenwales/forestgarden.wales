@@ -1,0 +1,25 @@
+baseURL: "https://www.forestgarden.wales/"
+languageCode: "en-GB"
+title: "Forest Garden Wales"
+theme: "go-fgw"
+sectionPagesMenu: "secondary"
+pluralizeListTitles: false
+copyright: "Attribution-NonCommercial-ShareAlike 4.0 International"
+paginate: 2
+summaryLength: 13
+author:
+  name: "Jake Rayson"
+  email: "helo@forestgarden.wales"
+
+params:
+  description: "Forest garden tours & design, based in West Wales"
+  publisher: "Forest Garden Wales"
+  publisherLogo: "images/logo-thumbnail.png"
+  publisherLogoWidth: 220
+  publisherLogoHeight: 220
+  twitter: "ForestGdnWales"
+  facebook: "Forest-Garden-Wales"
+  email: "helo@forestgarden.wales"
+  googleplus: "111290684473488016210"
+  fbapp_id: "181804962563660"
+  tel: "+447398474064"
