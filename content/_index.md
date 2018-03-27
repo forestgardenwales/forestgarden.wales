@@ -10,11 +10,11 @@ imageCap: ""
 draft: false
 ---
 
-We’re a newly established forest garden in the beautiful Ceredigion countryside, near Newcastle Emlyn in West Wales. 
+A newly established forest garden in beautiful Ceredigion, near Newcastle Emlyn in West Wales, bordering Pembrokeshire and Carmarthenshire.
 
-We have a well-developed 1 acre site (with wildlife pond, polytunnel & propagation beds), a 0.5 acre coppice and a 1 acre “greenfield site” which will be the new OMG! (Ornamental Maintenance-free Garden!).
+{{< figure src="/img/northface.jpg" alt="Photo of hedge, oak tree, polytunnel and freshly scythed grass path" caption="North boundary mixed windbreak hedge and grass path" >}}
 
-{{< figure src="/img/northface.jpg" alt="Photo of hedge, oak tree, polytunnel and freshly scythed grass path" caption="North boundary mixed hedge and grass path" >}}
+We have a well-developed 1 acre site with wildlife pond, polytunnel & propagation beds, a 0.5 acre coppice and a 1 acre “greenfield site” which will be the new OMG! (Ornamental Maintenance-free Garden!).
 
 ## What is forest gardening?
 
