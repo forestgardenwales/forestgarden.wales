@@ -1,12 +1,14 @@
 ---
-title: "Notes from Wild Bees in Pembrokeshire talk by Clare Flynn @wildaboutnature"
+title: "Notes from Wild Bees in Pembrokeshire talk"
 date: 2018-02-11
-description: "Wild Bees in Pembrokeshire - an introduction to Species, Diversity and Learning to Record Wildlife with Clare Flynn, talk at Moylegrove Old School Hall, Tue 23 Jan 7.30pm"
+description: "Wild Bees in Pembrokeshire - an introduction to Species, Diversity and Learning to Record Wildlife with Clare Flynn @wildaboutnature, talk at Moylegrove Old School Hall, Tue 23 Jan 7.30pm"
 image: "https://farm5.staticflickr.com/4665/28421254799_a8edf95f46_z_d.jpg"
 imageAlt: "Backs of heads looking at projector screen in hall"
 imageCap: "Wild Bees in Pembrokeshire talk with Clare Flynn at Moylegrove Old School Hall, Tue 23 Jan 7.30pm, photo via @wildaboutnature"
 draft: false
 ---
+
+Clare Flynn, County Recorder, [@wildaboutnature](https://twitter.com/wildaboutnature)
 
 ## Reasons for Biological Recording
 

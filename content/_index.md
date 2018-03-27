@@ -1,6 +1,8 @@
 ---
 title: "Home"
-menu: "main"
+menu: 
+  main:
+    weight: 20
 date: 2018-02-09T19:21:11Z
 image: ""
 imageAlt: ""
@@ -8,13 +10,11 @@ imageCap: ""
 draft: false
 ---
 
-# Forest Garden Wales
+We’re a newly established forest garden in the beautiful Ceredigion countryside, near Newcastle Emlyn in West Wales. 
 
-We are a newly established forest garden in the beautiful Ceredigion countryside, near Newcastle Emlyn in West Wales. 
+We have a well-developed 1 acre site (with wildlife pond, polytunnel & propagation beds), a 0.5 acre coppice and a 1 acre “greenfield site” which will be the new OMG! (Ornamental Maintenance-free Garden!).
 
-We have a well-developed 1 acre site (with wildlife pond, polytunnel & propagation beds), a 0.5 acre coppice and a 1 acre “greenfield site” which will be the new Ornamental Wildlife Forest Garden.
-
-We offer [tours](/tours/), [talks](/talks/) and a [design service](/design/).
+{{< figure src="/img/northface.jpg" alt="Photo of hedge, oak tree, polytunnel and freshly scythed grass path" caption="North boundary mixed hedge and grass path" >}}
 
 ## What is forest gardening?
 

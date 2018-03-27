@@ -8,7 +8,7 @@ imageCap: ""
 draft: false
 ---
 
-# Forest garden design services
+# Design services
 
 We offer a bespoke design service and you can choose the elements that suit your needs:
 
