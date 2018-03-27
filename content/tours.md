@@ -8,7 +8,7 @@ imageCap: ""
 draft: false
 ---
 
-# Forest garden tours
+# Tour our garden
 
 We offer a 3 hour tour, presentation plus tea & biscuits for anyone interested in finding out more about forest gardening.
 
@@ -20,6 +20,8 @@ The presentation is an introduction to forest gardening and a discussion of prac
 
 Please note, BOOKING IS ESSENTIAL. Also, at the very least, a mild interest in gardening is a prerequisite: the garden is in its early stages and indifferent individuals will only see twigs.
 
-Price £10 per head, minimum 5 people. Discounts available for large groups.
+**Price £10 per head, minimum 5 people. Discounts available for large groups.**
 
 Pre-booked tours on Tuesday, Wednesday & Friday, 10am-1pm, open from Easter to late Autumn.
+
+**_To book a tour, please email Jake [helo@forestgarden.wales](mailto:helo@forestgarden.wales) or phone on [07398&nbsp;474&nbsp;064](tel:+447398474064)._**

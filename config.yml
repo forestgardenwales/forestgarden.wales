@@ -5,7 +5,7 @@ theme: "go-fgw"
 sectionPagesMenu: "secondary"
 pluralizeListTitles: false
 copyright: "Attribution-NonCommercial-ShareAlike 4.0 International"
-paginate: 2
+paginate: 10
 summaryLength: 13
 author:
   name: "Jake Rayson"
