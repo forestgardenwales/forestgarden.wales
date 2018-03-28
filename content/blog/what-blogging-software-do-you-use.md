@@ -1,7 +1,7 @@
 ---
 title: "What blogging software do you use?"
 date: 2018-03-28T10:46:19+01:00
-description: "After days of building my own blog, I’m curious as to what other people are using and how well it fits in with social media"
+description: "After days of building my own blog, I’m curious as to what other people are using and how well it fits in with social media."
 image: "https://farm1.staticflickr.com/819/40359939864_77cd398e1a_z_d.jpg"
 imageAlt: "Screenshot of Forest Garden Wales website in browser, with browser tools showing"
 imageCap: "The new Forest Garden Wales website. Was it worth it?!?"
