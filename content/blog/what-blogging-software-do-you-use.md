@@ -8,7 +8,7 @@ imageCap: "The new Forest Garden Wales website. Was it worth it?!?"
 draft: false
 ---
 
-My alter ego is [a web designer](https://www.linkedin.com/in/jake-rayson-designer/). This is a blessing and a curse, for I have spent **too long** building the new [Forest Garden Wales website blog](https://www.forestgarden.wales) and not enought time gardening. I ended up using [Hugo](https://gohugo.io/), a rather nifty [static site generator](http://www.staticgen.com/), a rather [geeky alternative](https://www.netlify.com/blog/2016/05/18/9-reasons-your-site-should-be-static/) to [WordPress](https://wordpress.org/). 
+My alter ego is [a web designer](https://www.linkedin.com/in/jake-rayson-designer/). This is a blessing and a curse, for I have spent **too long** building the new [Forest Garden Wales website blog](https://www.forestgarden.wales) and not enought time gardening. I ended up using [Hugo](https://gohugo.io/), a rather nifty [static site generator](http://www.staticgen.com/) and a [geekyish alternative](https://www.netlify.com/blog/2016/05/18/9-reasons-your-site-should-be-static/) to [WordPress](https://wordpress.org/). 
 
 Would I have been better off using off-the-shelf blogging software? I really don’t know, which is why I’m keen to find out what other people are using – [Blogger](https://www.blogger.com/), [Tumblr](https://www.tumblr.com/), [Weebly](https://www.weebly.com/uk), [WordPress.com](https://wordpress.com/), self-hosted WordPress? And are people able to promote their posts on different social media? I know you can use [JetPack](https://wordpress.org/plugins/jetpack/) and [SNAP](https://wordpress.org/plugins/social-networks-auto-poster-facebook-twitter-g/) for WordPress but I’ve no real idea about other platforms.
 
