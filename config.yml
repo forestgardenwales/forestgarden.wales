@@ -17,9 +17,11 @@ params:
   publisherLogo: "images/logo-thumbnail.png"
   publisherLogoWidth: 220
   publisherLogoHeight: 220
-  twitter: "ForestGdnWales"
-  facebook: "Forest-Garden-Wales"
   email: "helo@forestgarden.wales"
-  googleplus: "111290684473488016210"
+  facebook: "Forest-Garden-Wales"
   fbapp_id: "181804962563660"
+  googleplus: "111290684473488016210"
+  linkedin: "forest-garden-wales"
   tel: "+447398474064"
+  twitter: "ForestGdnWales"
+  wordpress: "forestgardenwales"
