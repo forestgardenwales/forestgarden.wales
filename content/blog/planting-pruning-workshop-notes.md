@@ -16,21 +16,11 @@ I have a little [rootstock reference](https://www.forestgarden.wales/rootstock-r
 
 I also learnt that you can use [single core electric cable](https://duckduckgo.com/?q=single+core+electric+wire&t=ffab&iax=images&ia=images) to tie the trees to the stake.
 
-<figure>
-
-![Illustration of how to tie tree to stake with figure of 8 electric cable](https://farm5.staticflickr.com/4735/39316408421_38ecdbb4b7_o_d.png)
-
-<figcaption>Figure of 8 for tying tree to stake</figcaption>
-</figure>
+{{< figure src="https://farm5.staticflickr.com/4735/39316408421_38ecdbb4b7_o_d.png" alt="Illustration of how to tie tree to stake with figure of 8 electric cable" caption="Figure of 8 for tying tree to stake" >}}
 
 Another handy tip was that it _may_ make a difference planting the lead root **windward**, ie plant the biggest pointy root toward the prevailing wind.
 
-<figure>
-
-![Illustration showing the lead root](https://farm5.staticflickr.com/4738/25447923018_cfa5317121_o_d.png)
-
-<figcaption>Plant the lead root _toward_ the direction of the prevailing wind</figcaption>
-</figure>
+{{< figure src="https://farm5.staticflickr.com/4738/25447923018_cfa5317121_o_d.png" alt="Plant the lead root _toward_ the direction of the prevailing wind" caption="" >}}
 
 Other tips include:
 

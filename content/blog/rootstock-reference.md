@@ -8,9 +8,7 @@ imageCap: "Rootstocks explained illustration, I think from Johnstown Garden Cent
 draft: false
 ---
 
-This is the best [rootstock diagram](https://farm5.staticflickr.com/4636/24453546047_3e5fb2dfec_o_d.png) that I’ve found. I think it’s from [Johnstown Garden Centre](https://www.johnstowngardencentre.ie/blog/johnstowngardencentre.ie/2016/03/08/rootstocks-explained/)
-
-For reference, here is a list of roostock sizes. I _think_ they’re from the [Orange Pippin website](https://www.orangepippin.com/apples), a fantastic resource for choosing apple, pear and cherry varieties. They also have an online nursery called [Orange Pippin Fruit Trees](https://www.orangepippintrees.co.uk/):
+This is the best [rootstock diagram](https://farm5.staticflickr.com/4636/24453546047_3e5fb2dfec_o_d.png) that I’ve found, from [Johnstown Garden Centre](https://www.johnstowngardencentre.ie/blog/johnstowngardencentre.ie/2016/03/08/rootstocks-explained/)
 
 * Very dwarf _1.5m-2m_
   * Apple: **M27**
