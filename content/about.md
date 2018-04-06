@@ -28,4 +28,4 @@ We started our own forest garden 3 years ago when we moved to West Wales and wan
 
 ## Expertise
 
-As relative newcomers to forest gardening, we are lucky to able to draw on the expertise of local arboculturist James Archer and garden designer Angela Siminson.
+As relative newcomers to forest gardening, we are lucky to be able to draw on the expertise of local arboculturist James Archer and garden designer Angela Siminson.
