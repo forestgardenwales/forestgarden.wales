@@ -13,5 +13,6 @@ insert_final_newline = true
 # Allow <br/> from Markdown
 trim_trailing_whitespace = false
 
-[Makefile]
-indent_style = tabs
+[static/talks/**.html]
+# Allow trailing space in Remark slideshow Markdown HTML
+trim_trailing_whitespace = false
