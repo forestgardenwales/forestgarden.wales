@@ -16,7 +16,7 @@ Apparently, the People said Yes, that it was actually good to be able to see the
 
 I thought maybe half a dozen Orchardoers would arrive on what started out as a promisingly sunny day and degenerated into all-too-familiar windy & cold combo day. In the event **15** Orchardoers arrived! That’s quite a lot of people, and they managed to polish off a fair amount of [Vegan Chocolate Brownie](http://simp.ly/publish/L624C8)!
 
-It was so good to have a friendly, positive and engaging group of people as the first ever visitors, as it helped shape ideas how to best deliver a forest garden tour, how to keep people’s interest and how to relate what you’ve learned to what they need. Hint: a map, chocolate brownies and a warm room help!
+It was so good to have friendly, positive and engaging folk as the first ever visitors, as it helped shape ideas how to best deliver a forest garden tour, how to keep people’s interest and how to relate what you’ve learned to what they need. Hint: a map, chocolate brownies and a warm room help!
 
 A big smiley thank you to everyone who came along! 😃
 
