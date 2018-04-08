@@ -14,7 +14,7 @@ We can give a talk on an introduction to forest gardening which lasts approximat
 
 The slides from our introductory talk given to members of [The People’s Orchard](http://www.stdogmaelsabbey.org.uk/peoplesorchard) are available online:
 
-[An introduction to Forest Gardening 🌳](http://forestgarden.netlify.com/#1)
+[An introduction to Forest Gardening 🌳](/talks/intro/#1)
 
 The cost for a talk is £50 plus mileage.
 
