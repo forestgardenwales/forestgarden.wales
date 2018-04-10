@@ -8,20 +8,49 @@ imageCap: ""
 draft: false
 ---
 
-# Tour our garden
+# Tour our forest garden
 
-We offer a 3 hour tour, presentation plus tea & biscuits for anyone interested in finding out more about forest gardening.
+{{< figure src="https://farm1.staticflickr.com/799/26465730067_f657ece88c_z_d.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
+
+We offer a 3 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn and 20 minutes drive from Cardigan. This includes a presentation plus tea & biscuits and is for anyone interested in learning more about forest gardening.
 
 > Forest gardening is a productive and practical garden system using trees, shrubs and perennial plants, designed to be stable, sustainable and low-maintenance.
 
-The tour concentrates on a 1 acre pasture field which we started 3 years ago and is about 2/3 completed. We’ve constructed a wildlife pond, polytunnel, propagation beds, compost bins and raised beds. We also visit the adjacent 1 acre field, site of the Ornamental Wildlife Forest Garden due to be started in early 2019, and discuss the planning stages, as well as a detour via a ½ acre mixed coppice.
+## Included in the tour
 
-The presentation is an introduction to forest gardening and a discussion of practical lessons learned. Tea & homemade biscuits will be offered part way through.
+* 40 minute presentation on an introduction to forest gardening
+* Tea and homemade biscuits
+* Beautiful wooded hillside location
+* Opportunity to buy selected forest garden plants
 
-Please note, BOOKING IS ESSENTIAL. Also, at the very least, a mild interest in gardening is a prerequisite: the garden is in its early stages and indifferent individuals will only see twigs.
+## What you will see on the tour
+
+{{< figure src="https://farm1.staticflickr.com/899/40637277764_0c70b4a598_o_d.png" alt="CAD plan of garden" caption="CAD plan of our forest garden" >}}
+
+1. Introduction to forest gardening presentation
+2. Half an acre of newly planted coppice, designed for firewood, poles and posts
+3. One acre greenfield site of the planned Ornamental Maintenance-free Garden (OMG); discussion of windbreaks, access, utilities, fencing and planning
+4. Shrub propagation area & chickens
+5. The main attraction: a one acre pasture field started 3 years ago. 
+  * Fruit Triangle
+  * Ground cover propagation area
+  * Polytunnel & raised beds for annuals
+  * Wildlife pond for pest control
+  * Predator strip
+  * Orchard area, with grass crop
+  * Shrubbery (area of dry shade)
+  * Demonstration of mulching technique
+  * Prickly Quad
+  * Blue Bean vegetable border
+  * Mushroom Manor: growing mushrooms on logs
+  * Willow Walk
+6. Tea & homemade biscuits
+7. Exit via plant shop
+
+Please note, BOOKING IS ESSENTIAL. Wellies and waterproofs highly recommended. Also, at the very least, a mild interest in gardening is a prerequisite: the garden is in its early stages and indifferent individuals will only see twigs.
 
 **Price £10 per head, minimum 5 people. Discounts available for large groups.**
 
-Pre-booked tours on Tuesday, Wednesday & Friday, 10am-1pm, open from Easter to late Autumn.
+Pre-booked tours on Tuesday, Wednesday & Friday, 10am-1pm, open from Friday 30th March to Monday 5th November 2018.
 
 **_To book a tour, please email Jake [helo@forestgarden.wales](mailto:helo@forestgarden.wales) or phone on [07398&nbsp;474&nbsp;064](tel:+447398474064)._**
