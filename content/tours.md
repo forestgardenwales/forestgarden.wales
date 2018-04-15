@@ -2,17 +2,17 @@
 title: "Tours"
 menu: "main"
 date: 2018-02-09T19:21:11Z
-image: ""
-imageAlt: ""
-imageCap: ""
+image: "https://farm1.staticflickr.com/799/26465730067_f657ece88c_z_d.jpg"
+imageAlt: "Misty view on a sunny morning across pond, young orchard to establised trees"
+imageCap: "Early morning looking eastward across the Wildlife Pond and newly established forest garden"
 draft: false
 ---
 
-# Tour our forest garden
+# Tour our forest garden in a group
 
 {{< figure src="https://farm1.staticflickr.com/799/26465730067_f657ece88c_z_d.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
 
-We offer a 3 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn and 20 minutes drive from Cardigan. This includes a presentation plus coffee & cake and is for anyone interested in learning more about forest gardening.
+We offer a 3 hour **group** tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn and 20 minutes drive from Cardigan. This includes a presentation plus coffee & cake and is for anyone interested in learning more about forest gardening.
 
 > Forest gardening is a productive and practical garden system using trees, shrubs and perennial plants, designed to be stable, sustainable and low-maintenance.
 
