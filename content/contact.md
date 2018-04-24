@@ -24,7 +24,7 @@ Newcastle Emlyn
 Ceredigion  
 [SA38 9PA](https://www.openstreetmap.org/search?query=52.0579%2C-4.4711#map=16/52.0579/-4.4711&layers=H)
 
-Note that some satnavs take you to the wrong side of the river, be sure that you’re on the same road as Felin Geri campsite.
+Note that some satnavs take you to the wrong side of the river, be sure that you’re on the same road as Felin Geri campsite. Also note, the single track road is bumpy and goes up a very steep hill.
 
 ### Directions from Newcastle Emlyn
 
