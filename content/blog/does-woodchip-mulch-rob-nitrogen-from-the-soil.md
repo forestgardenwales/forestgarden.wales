@@ -23,4 +23,6 @@ So, I did some research on that there internet, and I found [Linda Chalker-Scott
 
 So, it’s fine to use woodchip as a mulch around living plants, although she advises against using it in annual beds where the plants have very shallow and limited root systems.
 
-This opens up a lot more possibilities, as I would imagine arborist wood chip is far more readily available than bark. Also, we have a **lot** of woody material from hedges and general gardening, and it’s far more efficient (and cheaper!) to chip this on-site than to bring in material from outside. This also means that I’ll have more mulching material available so that I can re-use the 1 metre plastic sheet mulch in the coppice and replace it with woodchip. Everyone’s a winner 🙂.
+This opens up a lot more possibilities, as I would imagine arborist wood chip is far more readily available than bark. Also, we have a **lot** of woody material from hedges and general gardening, and it’s far more efficient (and cheaper!) to chip this on-site than to bring in material from outside. 
+
+This also means that I’ll have more mulching material available so that I can re-use the 1 metre plastic sheet mulch in the coppice and replace it with woodchip. Everyone’s a winner 🙂.
