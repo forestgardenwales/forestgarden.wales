@@ -8,13 +8,23 @@ imageCap: "Early morning looking eastward across the Wildlife Pond and newly est
 draft: false
 ---
 
-# Tour our forest garden in a group
+# Tour our forest garden
 
 {{< figure src="https://farm1.staticflickr.com/799/26465730067_f657ece88c_z_d.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
 
-We offer a 3 hour **group** tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn and 20 minutes drive from Cardigan. This includes a presentation plus coffee & cake and is for anyone interested in learning more about forest gardening.
+On the **first Saturday of each month** (May to September inclusive), we offer a 3 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. This includes a presentation plus coffee & cake and is for anyone interested in learning more about forest gardening.
+
+You can buy tickets for £10 from **[forestgardenwales.eventbrite.co.uk](https://forestgardenwales.eventbrite.co.uk)**
 
 > Forest gardening is a productive and practical garden system using trees, shrubs and perennial plants, designed to be stable, sustainable and low-maintenance.
+
+The dates for your diary are:
+
+1. Saturday 5th May
+2. Saturday 2nd June
+3. Saturday 7th July
+4. Saturday 4th August
+5. Saturday 1st September
 
 ## Included in the tour
 
@@ -47,10 +57,10 @@ We offer a 3 hour **group** tour of our forest garden in Cwm Cou in Ceredigion, 
 6. Coffee & homemade cake
 7. Exit via plant shop
 
-Please note, BOOKING IS ESSENTIAL. Wellies and waterproofs highly recommended. Also, at the very least, a mild interest in gardening is a prerequisite: the garden is in its early stages and indifferent individuals will only see twigs.
+**Tickets £10 each, booking essential from [Eventbrite](https://www.eventbrite.co.uk/e/forest-garden-wales-tour-tickets-45399232326).**
 
-**Price £10 per head, minimum 5 people. Discounts available for large groups.**
+Please note, **BOOKING IS ESSENTIAL**. Wellies and waterproofs highly recommended. Also, at the very least, a mild interest in gardening is a prerequisite: the garden is in its early stages and indifferent individuals will only see twigs.
 
-Pre-booked tours on Tuesday, Wednesday & Friday, 10am-1pm, open from Friday 30th March to Monday 5th November 2018.
+**_For group bookings on different dates, please email Jake [helo@forestgarden.wales](mailto:helo@forestgarden.wales) or phone/text on [07398&nbsp;474&nbsp;064](tel:+447398474064)._**
 
-**_To book a tour, please email Jake [helo@forestgarden.wales](mailto:helo@forestgarden.wales) or phone on [07398&nbsp;474&nbsp;064](tel:+447398474064)._**
+For directions, see [www.forestgarden.wales/contact](/contact/)
