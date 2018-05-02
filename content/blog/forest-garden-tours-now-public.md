@@ -1,5 +1,5 @@
 ---
-title: "Forest garden tours now public! #ForestGarden"
+title: "Forest garden tours now public!"
 date: 2018-05-02T12:06:39+01:00
 description: "Forest Garden Wales is now open for tours by individual members of the public. Tickets on Eventbrite 🙂"
 image: "https://farm1.staticflickr.com/968/40947287805_348eb107c2_z_d.jpg"
