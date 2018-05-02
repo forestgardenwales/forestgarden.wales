@@ -2,9 +2,9 @@
 title: "Does woodchip mulch rob nitrogen from the soil?"
 date: 2018-04-25T22:23:04+01:00
 description: "Many people believe that woodchip applied as a mulch around plants can tie-up nitrogen and cause deficiencies. Apparently not!"
-image: "https://farm5.staticflickr.com/4725/38665529034_dd03ba2fba_z_d.jpg"
-imageAlt: "Pile of bark"
-imageCap: "This is bark, used as a mulch, not woodchip."
+image: "https://farm1.staticflickr.com/870/41116737764_16e3ee1953_z_d.jpg"
+imageAlt: "Woodchip used as a mulch in a border"
+imageCap: "Woodchip mulch in a bed at Scolton Manor walled garden"
 draft: false
 ---
 
