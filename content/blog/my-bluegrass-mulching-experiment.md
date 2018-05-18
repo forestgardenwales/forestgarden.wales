@@ -1,7 +1,7 @@
 ---
-title: "My bluegrass mulching experiment"
+title: "My blue hay mulching experiment"
 date: 2018-04-26T21:54:15+01:00
-description: "Grass in Welsh is glaswellt, which translates as “blue grass”. I’m using freshly scythed grass as a mulch in the polytunnel 🙂"
+description: "Grass in Welsh is glaswellt, which translates as “blue hay”. I’m using freshly scythed grass as a mulch in the polytunnel 🙂"
 image: "https://farm1.staticflickr.com/956/27854471018_c52428bf4d_z_d.jpg"
 imageAlt: "Wooden hay rake leaning on apple tree in front of freshly scythed grass"
 imageCap: "It may look bucolic but I can tell you it’s hard work…"
