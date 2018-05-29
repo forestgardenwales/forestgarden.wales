@@ -1,22 +1,30 @@
 ---
 title: "How green is your garden?"
 date: 2018-05-25T21:15:33+01:00
-description: ""
-image: ""
-imageAlt: ""
-imageCap: ""
-draft: true
+description: "Gardening should be the most environmentally friendly of endeavours but that isn’t necessarily the case"
+tags: 
+- #ForestGarden
+- #CarbonCapture
+image: "https://farm1.staticflickr.com/944/28510026388_f9b1d2e52c_z_d.jpg"
+imageAlt: "Photo of yellow mustard flowers in foreground with tree lined hedge and bark mulch in distance"
+imageCap: "Forest Garden Wales, planting in progress"
+draft: false
 ---
 
-Gardening should be the greenest endeavour,
+I came across a post about how to [Capture carbon in your garden](https://modernmint.co.uk/capture-carbon/), by [@ModernMintLtd](https://twitter.com/ModernMintLtd/). Really simple, and not surprisingly, forest gardening ticks all the boxes.
 
-[Capture carbon in your garden](https://modernmint.co.uk/capture-carbon/)
+1. Plant a tree  
+  _✔️&nbsp;&nbsp;Part of the very definition of a forest garden!_
+2. Improve your soil (mulch, don’t dig)  
+  _️✔️&nbsp;&nbsp;Use a living mulch, ie ground cover plants_
+3. Cover your soil with plants  
+  _✔️️&nbsp;&nbsp;See above!_
+4. Don’t use artificial fertiliser  
+  _️✔️&nbsp;&nbsp;Use mineral accumulators & nitrogren fixers for nutrients_
+5. Use peat free compost  
+  _️✔️&nbsp;&nbsp;Very little compost used, only peat-free potting compost for seedlings_
 
-1. Plant a tree
-2. Improve your soil (mulch, don’t dig)
-3. Cover your soil with plants
-4. Don’t use artificial fertiliser
-5. Use peat free compost
+There were some ideas contributed by other people, and again, this is what we’re moving toward:
 
 ## Contributed ideas
 
@@ -25,3 +33,5 @@ Gardening should be the greenest endeavour,
 * Grow as much food as you can
 * Reduce your lawn
 * Don’t heat your greenhouse
+
+We are still using a petrol mower to keep the grass paths short on an acre field. Currently, it’s about 2 hours a week mowing but we’re constantly reducing the amount of grass that has to be cut. Also, it’s taking a while to shift our diet to home grown food, which is as much about knowledge of cooking and plants as it is about a desire to change. This is the third year of the forest garden, and it’s the first time we’ve really noticed an increase in the produce.
