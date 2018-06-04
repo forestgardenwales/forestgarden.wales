@@ -14,15 +14,15 @@ draft: false
 I came across a post about how to [Capture carbon in your garden](https://modernmint.co.uk/capture-carbon/), by [@ModernMintLtd](https://twitter.com/ModernMintLtd/). Really simple, and not surprisingly, forest gardening ticks all the boxes.
 
 1. Plant a tree  
-  _✔️&nbsp;&nbsp;Part of the very definition of a forest garden!_
+  ✔️&nbsp;&nbsp;_Part of the very definition of a forest garden!_
 2. Improve your soil (mulch, don’t dig)  
-  _️✔️&nbsp;&nbsp;Use a living mulch, ie ground cover plants_
+  ️✔️&nbsp;&nbsp;_Use a living mulch, ie ground cover plants_
 3. Cover your soil with plants  
-  _✔️️&nbsp;&nbsp;See above!_
+  ✔️️&nbsp;&nbsp;_See above!_
 4. Don’t use artificial fertiliser  
-  _️✔️&nbsp;&nbsp;Use mineral accumulators & nitrogren fixers for nutrients_
+  ️✔️&nbsp;&nbsp;_Use mineral accumulators & nitrogren fixers for nutrients_
 5. Use peat free compost  
-  _️✔️&nbsp;&nbsp;Very little compost used, only peat-free potting compost for seedlings_
+  ️✔️&nbsp;&nbsp;_Very little compost used, only peat-free potting compost for seedlings_
 
 There were some ideas contributed by other people, and again, this is what we’re moving toward:
 
