@@ -10,11 +10,14 @@ draft: false
 
 # Forest garden talks
 
-We can give a talk on an introduction to forest gardening which lasts approximately lasting 2 hours. 
+We give talks to a variety of different organisations and clubs interested in forest gardening.
 
-The slides from our introductory talk given to members of [The People’s Orchard](http://www.stdogmaelsabbey.org.uk/peoplesorchard) are available online:
+Slides from previous talks:
 
-[An introduction to Forest Gardening 🌳](/talks/intro/#1)
+* **[An introduction to Forest Gardening](/talks/intro/#1)**  
+  Introductory talk given to members of [The People’s Orchard](http://www.stdogmaelsabbey.org.uk/peoplesorchard)
+* **[Forest Garden Magic](/talks/magic/#1)**  
+  Talk given to [Drefach Felindre Gardening Club](http://www.drefachfelindregardeningclub.co.uk) on Wednesday 6th June 2018
 
 The cost for a talk is £50 plus mileage.
 
