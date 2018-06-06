@@ -9,8 +9,7 @@ body {
 }
 
 .remark-slide-content li,
-.remark-slide-content p
- {
+.remark-slide-content p {
   font-size: 1.8rem;
 }
 
@@ -48,4 +47,8 @@ blockquote {
 
 .remark-code-line {
   font-size: 1.4rem;
+}
+
+.remark-slide-scaler {
+  box-shadow: 0 0 0 transparent;
 }
