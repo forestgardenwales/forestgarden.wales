@@ -13,3 +13,6 @@ draft: true
 
 Forest gardens by their very design are low maintenance, highly efficient and resilient productive gardens. In normal times, this just means less work for the gardener. In our current climate, it can mean the difference between a harvest and no harvest.
 
+The well has run dry.
+
+Climate change: I would like to be wrong
