@@ -35,6 +35,4 @@ I gave another [Introduction to Forest Gardening](https://www.forestgarden.wales
 * No fertilisers (fertility from mineral accumulators and nitrogen fixers)
 * No compost (compost in-situ)
 
-An introduction to Forest Gardening 
-
-https://www.forestgarden.wales/talks/intro/#3
+The book I always recommend is Martin Crawford’s [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/). 
