@@ -13,13 +13,13 @@ draft: false
 
 We picked our first ever gooseberries last week. I washed them, popped them into a saucepan with a tiny bit of water, cooked them on a low heat for a few minutes until soft then added some sugar. I then put this on the top of banana cake just before it went in the oven.
 
-## Ingredients
+## Ingredients
 
 * 3 bananas (ripe)
 * 75g coconut oil (melted or at least softened)
-* 140g cane sugar (Pure, Date, Palm or Coconut are fine, too)
+* 140g sugar (raw if you have it)
 * 80g almond milk
-* 1 tbsp pure vanilla extract
+* 1 tbsp vanilla extract
 * 1 flax egg (1 tbsp ground flax seed dissolved in water)
 * ½ tsp baking soda
 * 1½ tsp baking powder
