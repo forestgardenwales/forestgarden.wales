@@ -37,4 +37,7 @@ We picked our first ever gooseberries last week. I washed them, popped them into
 6. Add the dry mix to the wet and stir until just combined, do not over mix. Pour batter into tin.
 7. Bake for 25-30 minutes or until a toothpick can be inserted and removed cleanly. 
 
-https://fortheloveofleaves.blogspot.co.uk/2013/04/vegan-banana-cake.html
+{{< figure src="https://farm1.staticflickr.com/920/28497204027_358a109d32_z_d.jpg" alt="Square cake sliced on cooling rack, red fruit on top, piece missing" caption="Vegana banana cake topped with gooseberry with, er, a piece missing already…" >}}
+
+
+Recipe adapated from [For the Love of Leaves](https://fortheloveofleaves.blogspot.co.uk/2013/04/vegan-banana-cake.html)
