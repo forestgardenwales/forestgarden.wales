@@ -1,0 +1,26 @@
+baseURL: https://starter.indiego.org.uk/
+languageCode: en-GB
+title: Indiego Starter
+theme: starter
+sectionPagesMenu: secondary
+pluralizeListTitles: false
+copyright: This work is dual-licensed under MIT & GPL v3
+paginate: 2
+summaryLength: 13
+author:
+  name: Jake Rayson
+  email: hello@growdigital.org
+taxonomies:
+  tag: tags
+params:
+  description: Socially aware starter kit for Hugo
+  publisher: Indiego
+  publisherLogo: assets/img/logo.png
+  publisherLogoWidth: 220
+  publisherLogoHeight: 220
+  twitter: IndiegoHugo
+  facebook: IndiegoHugo
+  email: hello@indiego.org.uk
+  googleplus: 112354208488638707199
+  fbapp_id: 206433049934562
+  tel: "+447398474064"
