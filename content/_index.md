@@ -26,4 +26,4 @@ We have a well-developed 1 acre site with wildlife pond, polytunnel & propagatio
 * Biodiversity, shelter and increased wildlife
 * Low energy, low input gardening
 * Improved soil health and vitality
-* Beautiful and functional
+* Beautiful & functional
