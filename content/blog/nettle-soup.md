@@ -6,9 +6,9 @@ tags:
 - ForestGarden
 - recipe
 - nettle
-image: "https://farm2.staticflickr.com/1801/29529184218_54540bf685_z_d.jpg"
+image: "https://farm2.staticflickr.com/1882/42746778580_b0866baaea_z_d.jpg"
 imageAlt: "Bowl of nettle soup with creme fraiche"
-imageCap: "Nettle soup, photo by bob walker on Flickr"
+imageCap: "Nettle soup, by Leslie Seaton from Seattle, WA, USA"
 draft: false
 ---
 
