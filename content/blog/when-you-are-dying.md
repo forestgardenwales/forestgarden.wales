@@ -4,9 +4,9 @@ date: 2018-09-10T11:44:15+01:00
 description: "@doctor_oxford’s article on palliative care and nature struck a chord with my own experiences"
 tags: 
 - ForestGarden
-image: "https://farm2.staticflickr.com/1877/44592969461_68df41230d_z_d.jpg"
-imageAlt: "Closeup of yellow dandelion flower in grass"
-imageCap: "This dandelion, fly, grass & plantain are very much alive"
+image: "https://farm2.staticflickr.com/1868/29680293497_e084079070_z_d.jpg"
+imageAlt: "Closeup of white Rosa rugosa flower with bumblebee in centre"
+imageCap: "White Rosa rugosa flower, and bumblebee, both very alive"
 draft: false
 ---
 
