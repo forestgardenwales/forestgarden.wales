@@ -7,7 +7,7 @@ tags:
 - GdnBloggers
 image: "https://farm1.staticflickr.com/959/41405332295_4e395dcfa9_z_d.jpg"
 imageAlt: "Pale pink Quince blossom in the low evening sun"
-imageCap: "A quince tree, part of the canopy layer. Choosing other plants has been more challenging!"
+imageCap: "A quince tree, part of the canopy layer. Choosing other plants has been more challenging."
 draft: false
 ---
 
@@ -17,7 +17,7 @@ Forest gardening is an inbetweeny sort of gardening, as it concentrates on the p
 
 Now that I’ve also finished the majority of the ground cover planting, I’m looking at the shrub layer, herbaceous perennials and what are sometimes called “system plants”. System plants don’t have a direct harvest but benefit the ecosystem of the garden. Examples include nitrogen fixers, mineral accumulators, pollinator friendly flowers and predator friendly plants. 
 
-This is where the fun _really_ starts, because this is where you can play with the human-eye-pleasing shapes and colours. This is also where I feel most out of my depth – this is the realms of Traditional Gardening [sic]; thousands of varieties, a million combinations! I don’t really care what a quince tree looks like, it just has an innate beauty. But faced with a choice, and making aesthetic and visually oriented design decisions, that’s a whole new ball game.
+This is where the fun _really_ starts, because this is where you can play with the human-eye-pleasing shapes and colours. This is also where I feel most out of my depth – this is the realms of Traditional Gardening [sic]; thousands of varieties, a million combinations. I don’t really care what a quince tree looks like, it just has an innate beauty. But faced with a choice, and making aesthetic and visually oriented design decisions, that’s a whole new ball game.
 
 Luckily, help is at hand. I’m in the middle of reading [A Sting in the Tale](https://www.goodreads.com/book/show/18465526-a-sting-in-the-tale) by [Dave Goulson](https://mobile.twitter.com/DaveGoulson) (recommended by [Steph](https://mobile.twitter.com/wuthering_alice)). It is a right-rollicking and eye-opening read about the lives and loves of bumblebees. I am making mental notes about bee friendly plants, and then cross-referencing that with [Martin Crawford](https://www.agroforestry.co.uk/about_us/)’s [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/). He has a whole appendix entitled “Plants to attract beneficial insects and bees”, with tables of data about flowering times and the like. I’m cross referencing that with the excellent [Joy of Plants](https://www.joyofplants.com/iphone.php) app to get the low down on dimensions, foliage and colours, and drawing up a shortlist of favourites. 
 
