@@ -1,7 +1,7 @@
 ---
 title: "Weeding forest garden style"
 date: 2018-09-20T09:57:03+01:00
-description: The “chop ’n‘ drop” method of mulching applies equally to weeding in the #ForestGarden
+description: The “chop ’n‘ drop” method of mulching applies equally to weeding in the forest garden
 tags: 
 - ForestGarden
 image: "https://farm2.staticflickr.com/1861/44068045164_d01e556dd0_z_d.jpg"
