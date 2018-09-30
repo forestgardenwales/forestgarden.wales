@@ -6,6 +6,7 @@ imageAlt: "Black and white photo of tree branches against the sky"
 ---
 
 A #ForestGarden is all about the trees, and [Urban Forestry Network](http://urbanforestrynetwork.org/index.htm) handily [lists the benefits](http://urbanforestrynetwork.org/benefits/index.htm). Trees: 
+
 * have aesthetic value and improve property values
 * improve our air quality
 * increase water retention and quality
