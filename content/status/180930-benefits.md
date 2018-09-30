@@ -1,8 +1,8 @@
 ---
 title: "Benefits"
 date: 2018-09-30T11:43:37+01:00
-image: "https://farm2.staticflickr.com/1950/30069067727_9a8dc2a0e8_z_d.jpg"
-imageAlt: "Forest in foreground, city in background"
+image: "https://farm1.staticflickr.com/945/27259608937_2a99f7b998_z_d.jpg"
+imageAlt: "Black and white photo of tree branches against the sky"
 ---
 
 A #ForestGarden is all about the trees, and [Urban Forestry Network](http://urbanforestrynetwork.org/index.htm) handily [lists the benefits](http://urbanforestrynetwork.org/benefits/index.htm). Trees: 
