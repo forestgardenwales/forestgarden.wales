@@ -1,0 +1,58 @@
+<footer class="footer" id="footer" role="contentinfo">
+  <nav class="nav nav--secondary">
+    <ol class="nav__list wrapper o-list-bare">
+      {{ $currentPage := . }} {{ range .Site.Menus.secondary }}
+      <li>
+        <a class="{{ if or ($currentPage.IsMenuCurrent " secondary " .) ($currentPage.HasMenuCurrent "secondary" .) }}is-active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+      </li>
+      {{ end }}
+    </ol>
+  </nav>
+  <div>
+    <ol class="social social--contact o-list-bare">
+      <li>
+         Mobile: <a href="tel:{{ .Site.Params.tel }}" rel="me">07398&nbsp;474&nbsp;064</a>
+      </li>
+      <li>
+        Email: <a href="mailto:{{ .Site.Params.email }}" rel="me">{{ .Site.Params.email }}</a>
+      </li>
+    </ol>
+    <ol class="social social--media o-list-bare">
+      <li>
+        <a href="https://twitter.com/{{ .Site.Params.twitter }}" rel="me">Twitter</a>
+      </li>
+      <li>
+        <a href="https://www.facebook.com/{{ .Site.Params.facebook  }}" rel="me">Facebook</a>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/company/{{ .Site.Params.linkedin }}" rel="me">LinkedIn</a>
+      </li>
+      <li>
+        <a href="https://{{ .Site.Params.wordpress }}.wordpress.com/" rel="me">WordPress</a>
+      </li>
+      <li>
+        <a href="https://plus.google.com/{{ .Site.Params.googleplus }}" rel="me">Google+</a>
+      </li>
+      <li>
+        <a href="{{ .Site.Params.baseURL }}/index.xml">RSS</a>
+      </li>
+    </ol>
+  </div>
+  <div>
+    <p>
+      <small>Built by
+        <a href="https://www.growdigital.org/">Jake Rayson</a> with
+        <a href="https://gohugo.io/">Hugo</a>, deployed by
+        <a href="https://www.netlify.com/">Netlify</a>
+      </small>
+    </p>
+    <p>
+      <small>
+        Website copyright &copy; Jake Rayson 2017-18, <a href="https://github.com/growdigital/go-fgw">theme</a> license
+        <a href="https://choosealicense.com/licenses/mit/">MIT</a> &amp;
+        <a href="https://choosealicense.com/licenses/gpl-3.0/">GPL v3</a>,
+        content license <a href="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a>
+      </small>
+    </p>
+  </div>
+</footer>

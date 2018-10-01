@@ -1,0 +1,25 @@
+/* ==========================================================================
+   Post
+   ========================================================================== */
+
+.post__h {
+  font-size: 1.8rem;
+}
+
+.post__desc {
+  font-style: italic;
+}
+
+.post__time {
+  color: var(--gray_mid);
+  display: block;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+/* For article meta info (author, date, permalink) */
+.post__meta dt {
+  float: left;
+  width: 6rem;
+  font-weight: bold;
+}

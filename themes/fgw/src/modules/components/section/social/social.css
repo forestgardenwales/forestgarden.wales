@@ -1,0 +1,33 @@
+/* ==========================================================================
+   Social links
+   ========================================================================== */
+
+.social {
+  background-color: var(--brown_dark);
+  color: var(--green_white);
+  display: flex;
+  flex-wrap: wrap;
+  font-family: var(--sans);
+  justify-content: center;
+  padding: 1rem 0;
+}
+
+.social + .social {
+  margin-bottom: 1rem;
+  padding-top: 0;
+}
+
+.social > * {
+  margin: 0 1rem;
+}
+
+.social a:link,
+.social a:visited {
+  color: var(--blue_light);
+  text-decoration: none;
+}
+
+.social a:hover,
+.social a:active {
+  text-decoration: underline;
+}

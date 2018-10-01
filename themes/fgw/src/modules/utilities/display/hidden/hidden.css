@@ -1,0 +1,13 @@
+/* ==========================================================================
+   Utility - hidden
+   ========================================================================== */
+
+/**
+ * Display none.
+ * Trumping display utility derived from SUIT CSS display utilities:
+ * https://github.com/suitcss/utils-display
+ */
+
+.u-hidden {
+  display: none !important;
+}

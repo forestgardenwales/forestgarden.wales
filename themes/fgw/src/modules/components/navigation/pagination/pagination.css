@@ -1,0 +1,22 @@
+/* ==========================================================================
+   Pagination
+   ==========================================================================*/
+
+/* Pagination, built-in Hugo template class */
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.pagination > * {
+  margin: 0 1em;
+  text-align: center;
+  width: 2em;
+}
+
+.pagination .active {
+  outline: 1px solid var(--gray_dark);
+}

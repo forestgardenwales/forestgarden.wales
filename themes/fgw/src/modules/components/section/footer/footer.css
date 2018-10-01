@@ -1,0 +1,21 @@
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+
+.footer {
+  background-color: var(--brown_earth);
+  color: var(--green_white);
+  padding-bottom: 2rem;
+  text-align: center;
+}
+
+.footer a:link,
+.footer a:visited {
+  color: var(--blue_light);
+  text-decoration: none;
+}
+
+.footer a:hover,
+.footer a:active {
+  text-decoration: underline;
+}

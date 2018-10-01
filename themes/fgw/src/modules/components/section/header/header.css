@@ -1,0 +1,59 @@
+/* ==========================================================================
+   Header
+   ========================================================================== */
+
+.header {
+  background-color: var(--green_light);
+}
+
+.header .h-card {
+  /* Use linear gradient as background image, so that logo can sit on top of the 2px line */
+  background-image: linear-gradient(to top, var(--green_white), var(--green_white) 2px, rgba(255,255,255,0) 0);
+}
+
+.header__card {
+  display: flex;
+  justify-content: flex-start;
+  padding-top: 20px;
+  padding-left: 5%;
+  position: relative;
+}
+
+.header__logo {
+  margin-right: 0.6rem;
+  width: 50px;
+}
+/* next breakpoint */
+
+.header__h {
+  font-size: 1.3rem;
+  line-height: 1.6;
+}
+
+/* next breakpoint */
+/*
+.header__h {
+  font-size: 1.625rem;
+  line-height: 1.4;
+}
+*/
+
+
+.header__h a:link,
+.header__h a:visited {
+  color: var(--orange_tint);
+  text-decoration: none;
+}
+
+.header__h a:active,
+.header__h a:hover {
+  color: var(--blue);
+}
+
+.header__cloud {
+  position: absolute;
+  right: 12%;
+  top: 10px;
+}
+
+

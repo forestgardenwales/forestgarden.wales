@@ -1,0 +1,49 @@
+/* ==========================================================================
+   Nav
+   ==========================================================================*/
+
+.nav {
+  background-color: var(--green);
+  font-family: var(--sans);
+  padding: 13px 0 18px;
+}
+
+.nav--main {
+  padding-left: 5%;
+}
+
+.nav--secondary {
+  background-color: var(--brown);
+}
+
+.nav__list {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0 13%;
+}
+
+.nav__list > * {
+  font-size: 1rem;
+  letter-spacing: 0.03rem;
+  margin: 0 1.1rem 0 0;
+  text-transform: uppercase;
+}
+
+.nav .nav__list a:link,
+.nav .nav__list a:visited {
+  border-radius: 3px;
+  color: var(--green_white);
+  font-weight: normal;
+  padding: 0.2rem 0.4rem;
+  text-decoration: none;
+}
+
+.nav .nav__list a:hover,
+.nav .nav__list a:active,
+/* Nav active item */
+.nav--main .is-active,
+.nav--secondary .is-active {
+  border-bottom: 3px solid var(--green_light);
+}
+
+

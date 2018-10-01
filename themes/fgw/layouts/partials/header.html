@@ -1,0 +1,24 @@
+<header class="header" role="banner">
+  <div class="h-card">
+    <div class="wrapper header__card">
+      <a href="{{ .Site.BaseURL }}" title="Link to home page">
+        <img class="u-photo header__logo" src="{{ .Site.BaseURL }}img/logo-banner.svg" alt="{{ .Site.Title }} logo">
+      </a>
+      <h2 class="header__h">
+        <a class="p-org u-url" rel="me" href="{{ .Site.BaseURL }}" title="Link to home page">{{ .Site.Title }}</a>
+      </h2>
+      <h3 class="p-note u-hidden">{{ .Site.Params.Description }}</h3>
+      <p class="header__cloud">☁️</p>
+    </div>
+  </div>
+  <nav class="nav nav--main">
+    <ol class="nav__list wrapper o-list-bare">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+      <li>
+        <a class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}is-active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+      </li>
+      {{ end }}
+    </ol>
+  </nav>
+</header>

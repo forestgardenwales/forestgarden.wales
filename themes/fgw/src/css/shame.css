@@ -1,0 +1,77 @@
+/* ==========================================================================
+   Shameful CSS
+   ========================================================================== */
+
+/**
+ * Put shameful CSS in here. Refactor later.
+ * http://csswizardry.com/2013/04/shame-css/
+ */
+
+/**
+ * Use the CSS Wizardry hack namespace
+ * eg ._footer-mobile {}
+ * https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/#hack-namespaces-_
+ */
+
+form {
+  background-color: white;
+  border: 3px;
+  padding: 1.2rem;
+}
+
+input[type=text],
+input[type=email] {
+  background-color: var(--green_white);
+  border-radius: 3px;
+  border: 2px solid var(--green_light);
+  color: var(--gray_light);
+  font-family: var(--base_font);
+  font-size: 1.2rem;
+  margin-bottom: 0.8rem;
+  padding: 0.2rem 0.4rem;
+  width: 100%;
+}
+
+.button {
+  background-color: #EB4B2D !important;
+  border: 0;
+  border-radius: 3px;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 42px;
+  margin: 12px 5px 12px 0;
+  padding: 0 1.3rem;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: top;
+  width: auto;
+  white-space: nowrap;
+}
+
+.button:hover {
+  background-color: var(--brown_dark) !important;
+}
+
+label {
+  color: var(--gray_dark);
+  display: block;
+  font-family: var(--sans);
+  margin-bottom: 0.2rem;
+}
+
+.asterisk {
+  color: var(--orange_tint);
+}
+
+.indicates-required {
+  font-family: var(--sans);
+  font-size: small;
+  margin-bottom: 1rem;
+}
+
+figure {
+  margin: 1rem 0 0.5rem;
+}

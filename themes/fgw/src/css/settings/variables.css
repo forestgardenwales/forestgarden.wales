@@ -1,0 +1,50 @@
+/* ==========================================================================
+   CSS variables
+   ========================================================================== */
+
+:root {
+  /* Colors
+     ======================================================================== */
+  /* Green */
+  --green_forest: #555632;
+  --green_mid: #63724e;
+  --green: #718754;
+  --green_up: #687e4c;
+  --green_light: #d2e0af;
+  --green_wash: #f6fce6;
+  --green_white: #f8fbf2;
+
+  /* Brown */
+  --brown: #75613d; /* logo brown */
+  --brown_dark: #635133;
+  --brown_earth: #4B3D27;
+
+  /* Gray */
+  --gray_dark: #383a35;
+  --gray_mid: #575a52;
+  --gray_light: #82887a;
+
+  /* Highlight */
+  --greener_logo: #99b900; /* logo green */
+  --greener_dark: #6b7613;
+  --orange: #ff2600;
+  --orange_tint: #eb4b2d;
+
+  /* Link */
+  --blue: #0066ff;
+  --blue_light: #73abff;
+  --purple: purple;
+  --purple_light: rgb(187, 106, 187);
+
+
+  /* Base variables, adapated from SUIT CSS
+     ======================================================================== */
+
+  --base_font: "Droid Serif", Georgia, serif;
+  --base_fontsize: 17px;
+  --base_lineheight: 1.5;
+
+  /* Fonts
+     ======================================================================== */
+  --sans: Cabin, sans-serif;
+}

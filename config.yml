@@ -1,7 +1,7 @@
 baseURL: "https://www.forestgarden.wales/"
 languageCode: "en-GB"
 title: "Forest Garden Wales"
-theme: "go-fgw"
+theme: "fgw"
 sectionPagesMenu: "secondary"
 pluralizeListTitles: false
 copyright: "Attribution-NonCommercial-ShareAlike 4.0 International"
