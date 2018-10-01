@@ -1,7 +1,7 @@
 ---
-title: "Top 10 bee friendly plants for the forest garden"
+title: "Top 10 bee friendly plants for the #ForestGarden"
 date: 2018-09-25T10:44:01+01:00
-description: ""
+description: "Bring a splash of colour to your forest garden with some stalwart “system plants”, providing a much needed boost of all-year-round nectar and pollen for your friendly pollinators and predators 🐝"
 tags: 
 - ForestGarden
 - BeeFriendly
